@@ -1,0 +1,47 @@
+HƯỚNG DẪN THỰC HIỆN THỦ TỤC HỒ SƠ NHẬP HỌC
+Bước 1: Tân sinh viên truy cập vào website https://nhaphoc.hcmute.edu.vn/ , đăng nhập bằng tài
+khoản mà nhà trường đã gửi qua tin nhắn SMS hoặc xem trên trang tra cứu kết quả xét tuyển
+https://tracuuxettuyen.hcmute.edu.vn/ và chuẩn bị đầy đủ thông tin để điền và tải ảnh lên hệ thống.
+Lưu ý: phải điền đúng mật khẩu bao gồm phần chữ và phần số (Ví dụ: SPK&12345678)
+Bước 2: Chọn “Bước 1 – Hồ sơ sinh viên”, sau đó thực hiện điền đầy đủ các ô thông tin
+Lưu ý:
+– Phần nơi sinh, quê quán: chọn chính xác tỉnh/thành phố theo thông tin được ghi trên giấy khai
+sinh.
+– Phần Mã số BHYT: điền đủ 15 ký tự cả phần chữ và số (ví dụ: HS 4 79 512 137 4007)
+– Phần thời gian tham gia BHYT, mã nơi đăng ký Khám chữa bệnh ban đầu, Tên nơi đăng ký
+Khám chữa bệnh ban đầu, sinh viên điền đúng nội dung trên app VSSID, hoặc tra cứu trên
+https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-thoi-han-su-dung-the-bhyt.aspx– Nếu sinh viên là Đoàn viên/Đảng viên, phải tick vào và ghi đủ ngày kết nạp và nơi kết nạp.
+Nếu không phải Đoàn viên/Đảng viên thì không tick.
+– Phần Tên chức vụ Đoàn-Hội-Lớp: có thể ghi “không có” nếu không giữ chức vụ nào.
+Sau khi điền đầy đủ các ô thông tin, sinh viên bấm “Lưu thông tin” ở cuối trang.
+Nên nhập nhanh các thông tin ở bước này, tránh treo web quá lâu sẽ bị mất kết nối và lưu sẽ
+không thành công.
+Bước 3: Chọn “Bước 2 – danh sách file đính kèm” và chuẩn bị trước ảnh các giấy tờ mà trường
+yêu cầu nộp ở bước này.
+File ảnh tải lên và bấm lưu thành công 
+Sinh viên nên tải lên từng ảnh xong bấm lưu hồ sơ ở cuối trang, rồi mới tải lên tiếp các ảnh
+tiếp theo, tránh để web treo quá lâu dẫn đến lỗi.
+Lưu ý:
+– Các giấy tờ phải chụp bản gốc hoặc bản photo công chứng.
+– Đối với thí sinh tốt nghiệp năm 2025, phải tải lên giấy chứng nhận tốt nghiệp tạm thời, không
+tải lên ảnh ở mục bằng tốt nghiệp THPT.
+– Đối với thí sinh tốt nghiệp năm 2024 trở về trước, chỉ tải lên bằng tốt nghiệp THPT.
+– Hình thẻ 4x6 chỉ được tải lên file JPG và file PNG phải crop gọn ảnh trước khi tải lên.
+– Các trang học bạ phải tải lên theo đúng thứ tự các trang.
+– Kích thước file không được quá lớn, nếu tải ảnh lên bị lỗi thì phải kiểm tra lại kích thước ảnh.
+Bước 4: Chọn và xem học phí ở “Bước 3 – Tình trạng học phí nhập học”. Sinh viên truy cập trang
+web http://fpo.hcmute.edu.vn/ để xem hướng dẫn cách thanh toán học phí online. Và thanh toán
+học phí online tại https://e-bills.vn/pay/hcmute. Mọi thắc mắc về tiền học phí trong thời gian
+nhập học, sinh viên vui lòng liên hệ hotline 0947799617 hoặc 0931141206 trong giờ hành
+chính.
+Sau 24 giờ sau khi hoàn thành 3 bước trên, tân sinh viên thường xuyên vào lại theo dõi tình
+trạng hồ sơ và học phí. Nếu hồ sơ được duyệt (hoặc có sai sót) sẽ có thông báo ở đầu trang.
+Bước 5: Sinh viên xác nhận nhập học trên web thisinh.thithptquocgia.edu.vn (trước 17h ngày
+30/8/2025). Nếu đã xác nhận, vui lòng đợi từ 24h - 48h để được cập nhật ở “Bước 4 - Xác nhận
+nhập học bằng phiếu điểm thi THPT”.
+Sau khi hoàn thành các bước trên: Tân sinh viên chọn “Bước 0 – Các thông báo cho việc nhập học”
+để xem qua các thông báo cần thiết và quan trọng.
+Mọi thắc mắc, vấn đề về thủ tục nhập học, tân sinh viên vui lòng liên hệ qua số điện thoại
+02837222764 vào giờ hành chính, hoặc liên hệ qua fanpage https://www.facebook.com/ute.sao,
+https://www.facebook.com/SPKT.tuyensinh, https://www.facebook.com/share/g/172wq5ybNp/
+để được hỗ trợ kịp thời.
