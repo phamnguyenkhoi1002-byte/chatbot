@@ -1,0 +1,20 @@
+NGÀNH KỸ THUẬT THIẾT KẾ VI MẠCH (7510302KTVM)
+KHOA ĐIỆN ĐIỆN TỬ, TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH
+1. Giới thiệu về ngành:
+
+- Ngành Kỹ thuật thiết kế vi mạch là một ngành đào tạo chuyên sâu trong lĩnh vực kỹ thuật điện tử. Người học trong ngành này được đào tạo để thiết kế và phát triển các vi mạch điện tử, là những hệ thống tích hợp các linh kiện điện tử như transistor, điện trở, tụ điện, và các thành phần khác, trên một nền chất bán dẫn như silic....
+
+- Sinh viên sau khi tốt nghiệp có khả năng làm việc trong lĩnh vực thiết kế và chế tạo vi mạch bản dẫn với khả năng nhận diện và giải quyết các vấn đề quan trọng trong nhiều lĩnh vực ứng dụng khác nhau; có khả năng phát triển sự nghiệp thành công trong công nghiệp, học thuật và phục vụ cộng đồng, thể hiện tinh thần lãnh đạo kỹ thuật trong kinh doanh, nghề nghiệp và cộng đồng; có khả năng tham gia quá trình thúc đẩy sự phát triển kinh tế toàn diện khu vực Miền Nam thông qua việc kết hợp giữa sự thành thạo kỹ thuật, tinh thần lãnh đạo và tinh thần khởi nghiệp. Sinh viên sau khi tốt nghiệp có thể làm việc tại các công ty hoạt động trong lĩnh vực thiết kế và chế tạo vi mạch bán dẫn cũng như các lĩnh vực liên quan khác.
+
+2. Tổ hợp xét tuyển:
+- Tổ hợp A00: Toán, Lý, Hóa.
+- Tổ hợp A01: Toán, Lý, Anh.
+- Tổ hợp D01: Toán, Văn, Anh.
+- Tổ hợp C01 : Toán – Văn – Lý.
+
+3. Hotline tư vấn chuyên ngành:
+- PGS.TS Võ Minh Huân - 0909.437.522 - Email: huanvm@hcmute.edu.vn 
+
+- PGS.TS Lê Mỹ Hà - Phụ trách Khoa Điện Điện tử - 0938.811.201 - Email: halm@hcmute.edu.vn 
+
+- TS. Phạm Ngọc Sơn - 0966 609 555 - Email: sonpndtvt@hcmute.edu.vn
