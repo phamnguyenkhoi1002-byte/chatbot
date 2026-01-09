@@ -1,0 +1,78 @@
+NGÀNH CÔNG NGHỆ KỸ THUẬT IN (7510801V) - (AUN-QA)
+KHOA IN VÀ TRUYỀN THÔNG, TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH
+
+NGÀNH ĐẠT CHUẨN KIỂM ĐỊNH CHẤT LƯỢNG QUỐC TẾ AUN-QA (từ năm 2019)
+
+ 1. Giới thiệu về ngành:
+
+- Ngành công nghệ kỹ thuật in là một lĩnh vực hết sức quan trọng và đóng vai trò không thể thiếu trong cuộc sống hiện đại. Công nghệ kỹ thuật in không chỉ đơn thuần là quá trình tạo ra các hình ảnh hoặc chữ viết trên nền vật liệu như giấy, nhựa hay vải, mà còn bao gồm cả quá trình thiết kế, chế tạo khuôn in và quá trình sản xuất. Với sự tiến bộ của công nghệ, Ngành in đã phát triển đa dạng các phương pháp in như in offset, in flexo, in gravure, in kỹ thuật số, in 3D và nhiều hơn nữa.
+
+Ngành công nghệ kỹ thuật in có ứng dụng rộng rãi trong nhiều lĩnh vực. Trong sản xuất công nghiệp, in ấn được sử dụng để sản xuất các sản phẩm đa dạng như bao bì, hộp giấy, sách báo, tạp chí, v.v... Trong lĩnh vực truyền thông, việc ứng dụng các sản phẩm in như in quảng cáo, băng rôn, các bộ nhận diện thương hiệu giúp tăng tính cạnh tranh của các nhãn hàng trên thị trường.
+
+- Trong thời đại số hóa, công nghệ kỹ thuật in còn đóng vai trò quan trọng trong ngành in ấn công nghệ cao, trong đó ứng dụng phần mềm thiết kế và quy trình tự động hóa được tích hợp để tạo ra sản phẩm in chất lượng cao và hiệu suất tối ưu.
+
+Với cuộc cách mạng công nghệ 4.0 đang diễn ra, ngành công nghệ kỹ thuật in làm cho thế giới trở nên rộng mở hơn bao giờ hết. Công nghệ kỹ thuật in không chỉ đóng vai trò quan trọng trong việc truyền thông, mà còn tạo ra những tiến bộ đáng kể trong nhiều lĩnh vực khác nhau, từ ngành hàng sản xuất đến lĩnh vực nghệ thuật.
+
+2. Điều kiện học tập và rèn luyện của sinh viên
+
+- Sinh viên học ngành này sẽ được được đào tạo chuyên sâu về thiết kế và xử lý dữ liệu cho in sách, báo, tạp chí, bao bì, nhãn hàng, ấn phẩm quảng cáo… Chế tạo khuôn in cho tất cả các phương pháp in khác nhau. Vận hành các thiết bị in công nghiệp. Kỹ thuật gia tăng giá trị tờ in, kỹ thuật thành phẩm cho sách báo, nhãn hàng và bao bì các loại… được tiếp cận với trang thiết bị máy móc hiện tại tại xưởng in
+
+- Sinh viên được học dưới sự hướng dẫn của các thầy cô giàu kinh nghiệm giảng dạy và làm việc lâu năm tại các cơ sở in, cùng với lực lượng giảng viên trẻ tận tậm.
+
+- Thông qua việc hợp tác của khoa với các Doanh nghiệp, sinh viên luôn được tạo điều kiện tham gia các học kỳ doanh nghiệp, được tham quan trực tiếp, cũng như liên kết kiến tập, thực tập tại các công ty trong và ngoài nước. Đồng thời tạo điều kiện thuận lợi về việc làm sau khi ra trường cho sinh viên.
+
+- Bên cạnh đó sinh viên còn được tham gia các hoạt động sáng tạo, xây dựng và phát triển kỹ năng cá nhân thông qua các hoạt động CLB Nghiên cứu khoa học, CLB Kỹ năng, CLB Ghita, ….
+
+3. Cơ hội việc làm sau khi tốt nghiệp của sinh viên
+
+- Các doanh nghiệp thường tuyển dụng:
+
+Công ty trong nước: Công ty Cổ phần In số 7, Công ty In tổng hợp Cần Thơ, Công ty Toàn Ấn, Công ty Cổ phần In An Nhân, Công ty TNHH Nguyễn Quang Huy,…
+
+Công ty có vốn đầu tư nước ngoài: Avery Dennision Việt Nam, Fuji Seal Việt Nam, Y&J Vina, Rpac Việt Nam, SCGP Việt Nam, ….
+
+- Ví dụ những vị trí sinh viên có thể ứng tuyển
+
+· Nhân viên chế bản.
+
+· Nhân viên thiết kế đồ họa.
+
+· Nhân viên nghiên cứu phát triển sản phẩm (R&D)
+
+· Chuyên viên quản trị màu sắc
+
+· Kỹ sư vận hành máy in.
+
+· Nhân viên kinh doanh (trong các công ty cung cấp vật tư, máy móc trang thiết bị ngành in hoặc các công ty cung cấp dịch vụ in ấn)
+
+· Kỹ thuật viên in ấn.
+
+· Nhân viên quản lý chất lượng in (QC)
+
+· Nhân viên đảm bảo chất lượng in (QA)
+
+· Nhân viên điều độ sản xuất.
+
+· Nhân viên thành phẩm.
+
+· Quản lý sản xuất.
+
+4. Ngành được xét tuyển với các tổ hợp môn
+
+- Tổ hợp A00: Toán, Lý, Hóa.
+
+- Tổ hợp A01: Toán, Lý, Anh.
+
+- Tổ hợp D01: Toán, Văn, Anh.
+
+- Tổ hợp D90: Toán, Anh, Khoa học tự nhiên (KHTN).
+
+5. Các tư vấn viên hướng nghiệp về ngành
+
+- TS. Nguyễn Long Giang – Trưởng khoa In và Truyền thông - 0903.678.610
+
+- Ths. Lê Công Danh – Phó Trưởng khoa In và Truyền thông - 0903.344.837
+
+- Ths. Chế Quốc Long - Giảng viên ngành Công nghệ Kỹ thuật In - 0913.922.377
+
+- Ths. Chế Thị Kiều Nhi - Giảng viên ngành Công nghệ Kỹ thuật In - 0903.362.007

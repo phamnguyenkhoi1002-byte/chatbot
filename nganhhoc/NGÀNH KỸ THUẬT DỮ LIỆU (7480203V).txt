@@ -1,0 +1,49 @@
+NGÀNH KỸ THUẬT DỮ LIỆU (7480203V)
+KHOA CÔNG NGHỆ THÔNG TIN, TRƯỜNG ĐH SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH
+ 1. Giới thiệu về ngành:
+
+- Ngành trang bị kiến thức về khoa học cơ bản (khoa học tự nhiên và khoa học xã hội), về cơ sở ngành Kỹ thuật dữ liệu gồm các môn trong lĩnh vực Công nghệ phần mềm, Mạng máy tính và An ninh mạng, Hệ thống thông tin, Trí tuệ nhân tạo; kiến thức chuyên ngành kỹ thuật dữ liệu như phân tích, thiết kế, triển khai hệ thống dữ liệu lớn, …
+
+- Ngành Kỹ thuật dữ liệu có vị trí rất quan trọng trong nhiều lĩnh vực kinh tế, xã hội, an ninh- quốc phòng..., đặc biệt trong bối cảnh hội nhập toàn cầu, chuyển đổi số, sản xuất thông minh, kinh tế tri thức. 
+
+- Hiện nay nhu cầu về kỹ sư chuyên về kỹ thuật dữ liệu là rất lớn bởi sự toàn cầu hóa, chuyển hướng đầu tư của các công ty nước ngoài vào Việt Nam. Ngoài ra, sinh viên sau khi hoàn thành chương trình đại học, có khả năng học tiếp lên các bậc học cao hơn (thạc sỹ, tiến sĩ). Dự báo trong những năm tới, nhu cầu nhân lực về Kỹ thuật dữ liệu ngày càng tăng trong giai đoạn chuyển đổi số, sản xuất thông minh và kinh tế tri thức.
+
+ 
+
+2. Điều kiện học tập và rèn luyện của sinh viên
+
+- Sinh viên học ngành này sẽ được học trong môi trường tốt, hiện đại; được tiếp cận các trang thiết bị, hệ thống máy tính, máy chủ tính toán lớn.
+
+- Chú trọng giảng dạy không chỉ về lý thuyết mà cả kỹ năng thực hành nhằm đảm bảo sinh viên ra trường có thể tiếp cận và làm việc ngay tại các công ty về quản trị và khai thác dữ liệu lớn.
+
+- Sinh viên được học dưới sự hướng dẫn của các thầy cô tận tình.
+
+- Sinh viên được tạo điều kiện tham gia các hoạt động, chương trình, cuộc thi học thuật nhằm áp dụng các kiến thức chuyên môn vào thực tế như Hackathon, Mastering IT, CTF HCMUTE, Data Engineering competition và các sân chơi nghiên cứu khoa học, các cuộc thi về phát triển phần mềm, các chuyên đề doanh nghiệp và các hoạt động ngoại khóa chiến dịch mùa hè xanh, Xuân tình nguyện; Các hội diễn, hội thao, văn nghệ sinh viên.
+
+ 
+
+3. Cơ hội việc làm sau khi tốt nghiệp của sinh viên
+
+- Sinh viên sau khi tốt nghiệp, có thể làm việc tại các công ty phần mềm, các công ty cung cấp giải pháp CNTT, dữ liệu lớn trong nước cũng như quốc tế,… Có thể tham gia nghiên cứu và giảng dạy tại các Viện nghiên cứu, Trường Đại học, Cao đẳng, Trung cấp chuyên nghiệp, cũng như các trường phổ thông, có thể làm việc tại các công ty ngoài lĩnh vực CNTT nhưng có áp dụng, khai thác dữ liệu lớn trong hoạt động, quản lý, sản xuất, kinh doanh.
+
+- Những vị trí sinh có thể ứng tuyển: Phân tích thiết kế giải pháp quản trị dữ liệu lớn, hệ quản trị dữ liệu, thẩm định phần mềm...,
+
+ 
+
+4. Ngành được xét tuyển với các tổ hợp môn
+
+- Tổ hợp A00: Toán, Lý, Hóa.
+
+- Tổ hợp A01: Toán, Lý, Anh.
+
+- Tổ hợp D01: Toán, Văn, Anh.
+
+- Tổ hợp D90: Toán, Anh, Khoa học tự nhiên (KHTN).
+
+ 
+
+5. Các tư vấn viên hướng nghiệp về ngành
+
+- PGS.TS. Hoàng Văn Dũng (Phó trưởng khoa CNTT), dunghv@hcmute.edu.vn - 0913317759
+
+- TS. Nguyễn Thành Sơn (Trưởng Bộ môn, khoa CNTT), sonnt@hcmute.edu.vn -0918648899

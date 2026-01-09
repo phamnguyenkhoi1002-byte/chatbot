@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>Chatbot Hỗ Trợ Sinh Viên</title>
+  <title>Trường Đại Học Công Nghệ Kỹ Thuật TP.HCM</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- NỀN GALAXY -->
+  <div class="galaxy">
+    <div class="stars"></div>
+    <div class="twinkling"></div>
+    <div class="clouds"></div>
+  </div>
+
+  <!-- CHATBOT -->
+  <div class="chat-container">
+    <div class="chat-header">
+      🌌 Chatbot Hỗ Trợ Sinh Viên <br>
+      Trường Đại Học Công Nghệ Kỹ Thuật TP.HCM
+    <span class="status">● Online</span>
+  </div>
+
+
+    <div class="chat-box" id="chatBox">
+      <div class="bot-message">
+        👋 Xin chào! <br>
+        Mình là chatbot hỗ trợ sinh viên 🚀  
+        Bạn cần hỏi gì về trường?
+      </div>
+    </div>
+
+    <div class="chat-input">
+      <input
+        type="text"
+        id="userInput"
+        placeholder="Nhập câu hỏi của bạn..."
+      />
+      <button onclick="sendMessage()">➤</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

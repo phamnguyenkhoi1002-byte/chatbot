@@ -1,0 +1,68 @@
+NGÀNH CÔNG NGHỆ CHẾ TẠO MÁY (7510202)
+KHOA CƠ KHÍ CHẾ TẠO MÁY, TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH
+NGÀNH ĐẠT CHUẨN KIỂM ĐỊNH CHẤT LƯỢNG QUỐC TẾ AUN-QA (từ năm 2017)
+ 1.     Giới thiệu về ngành
+
+- Chương trình đào tạo kỹ sư Công nghệ Chế tạo máy được xây dựng theo hướng công nghệ, đào tạo ra những kỹ sư có nền tảng vững chắc về kiến thức khoa học cơ bản, cơ sở kỹ thuật và kiến thức chuyên môn, có kỹ năng thực hành cơ bản và tay nghề tốt; có năng lực chuyên môn để giải quyết các vấn đề về thiết kế, xây dựng quy trình công nghệ chế tạo sản phẩm cơ khí, vận hành các hệ thống sản xuất công nghiệp; có kỹ năng làm việc theo nhóm; có trình độ ngoại ngữ và tin học tốt, đáp ứng yêu cầu phát triển của lĩnh vực cơ khí chế tạo máy, nhanh thích nghi với môi trường làm việc cạnh tranh và luôn thay đổi. Người học có đủ năng lực tự học, tự nghiên cứu để có thể tiếp tục học tập ở trình độ cao hơn, khả năng học tập suốt đời.
+
+-   Ngành công nghệ chế tạo máy là một lĩnh vực liên quan đến nghiên cứu về thiết kế, công nghệ và chế tạo chi tiết máy / máy, quản lý và điều hành sản xuất, vận hành và bảo dưỡng các hệ thống cơ khí. Với ngành học này, người học sẽ được đào tạo chuyên sâu về vật liêu, thiết kế, công nghệ sản xuất chế tạo các sản phẩm cơ khí bằng các phương tiện công nghệ kỹ thuật thủ công, cơ giới, bán tự động, tự động hoá với các trình độ hiện đại khác nhau như công nghệ CAD/CAM/CNC, phân tích đánh giá thiết kế CAD/CAE, công nghệ đúc, hàn tự động, tự động hoá quá trình sản xuất,…
+
+-   Ngành đã được kiểm định chất lượng quốc tế theo tiêu chuẩn AUN-QA bởi mạng lưới các trường đại học khu vực Đông Nam Á năm 2017.
+
+-   Ngành công nghệ chế tạo máy là một trong những ngành dễ kiếm việc hàng đầu hiện nay và trong nhiều năm tới. Nhu cầu của các nhà máy, công ty hoạt động trong lĩnh vực kỹ thuật, dịch vụ kỹ thuật, quản lý công nghệ kỹ thuật đều rất cần kỹ sư công nghệ chế tạo máy trong công việc thiết kế phát triển sản phẩm, công nghệ chế tạo, quản lý công nghệ kỹ thuật, vận hành hệ thống sản xuất, bảo trì và bảo dưỡng hệ thống máy / thiết bị trong nhà máy.
+
+2.     Điều kiện học tập và rèn luyện của sinh viên
+
+-   Sinh viên học ngành công nghệ chế tạo máy sẽ được học trong môi trường hiện đại, thực hành trên các trang thiết bị công nghiệp như các máy gia công cơ khí, trung tâm gia công CNC công nghiệp, máy ép nhựa điều khiển số; các phần mềm thiết kế, phân tích đánh giá thiết kế, tính toán mô phỏng AutoCAD, CreO, Solidworks, Ansys, Altair, hyperMill,…
+
+-   Sinh viên được hướng dẫn về kiên thức và kỹ năng chuyên môn của các thầy cô trình độ cao với nhiều năm kinh nghiệm giảng dạy, nghiên cứu khoá học. Ngoài ra các công ty, doanh nghiệp hợp tác đào tạo với trường, khoa cũng mang đến cho sinh viên các kiến thức cập nhật về các tiến bộ kỹ thuật mới, cung cấp chỗ thực tập cũng như các học bổng trị giá cao cho các sinh viên đạt thành tích xuất sắc trong học tập, nghiên cứu.
+
+-   Sinh viên cũng được tạo điều kiện tham gia vào các sân chơi học thuật như thi thiết kế sản phẩm cơ khí, thiết kế đồ gá gia công, tay nghề cơ khí, hội thi rô bốt leo thang chữa cháy,… Ngoài ra còn một số các cuộc thi do khoa phối hợp với các công ty Siemens, Bosch, hyperMill.. tổ chức cũng mang đến cho sinh viên các chứng chỉ có giá trị quốc tế,… 
+
+3.     Cơ hội việc làm sau khi tốt nghiệp của sinh viên
+
+Sau khi hoàn thành chương trình đào tạo ngành Công nghệ chế tạo máy, sinh viên sẽ được cung cấp đầy đủ kiến thức và năng lực chuyên môn có thể đảm nhận được các vị trí công việc sau đây:
+
+- Quản lý kỹ thuật, tổ chức - điều hành sản xuất tại các đơn vị sản xuất có trang bị, thiết bị cơ khí, thiết bị tự động hóa trong lĩnh vực cơ khí chế tạo máy;
+
+- Thiết kế kỹ thuật các chi tiết máy / máy, thiết kế công nghệ chế tạo sản xuất các sản phẩm cơ khí;
+
+- Tư vấn, điều khiển hệ thống sản xuất, giám sát quá trình chế tạo sản xuất các sản phẩm cơ khí, kiểm tra chất lượng sản phẩm theo tiêu chuẩn kỹ thuật;
+
+- Làm việc ở các cơ quan quản lý công nghệ kỹ thuật có liên quan đến lĩnh vực cơ khí chế tạo máy.
+
+- Triển khai công nghệ, chế tạo sản xuất các máy và thiết bị sản xuất đã thiết kế.
+
+- Tham gia lắp đặt các thiết bị máy móc cơ khí cho các công trình, nhà máy điện, hoá chất, dược phẩm,...
+
+- Tham gia công việc khai thác hệ thống sản xuất công nghiệp: vận hành, kiểm tra bảo trì bảo dưỡng thiết bị, xử lý sự cố các thiết bị công nghiệp.;
+
+- Tự tạo việc làm, tự làm chủ công ty, xưởng sản xuất chế tạo thiết bị cơ khí, cơ sở kinh doanh thiết bị - máy móc - vật tư cơ khí;
+
+- Giảng dạy các môn học chuyên ngành Công nghệ Chế tạo máy ở các trường đại học, cao đẳng;
+
+- Quản lý, trực tiếp nghiên cứu khoa học các đề tài thuộc lĩnh vực cơ khí chế tạo máy ở các viện nghiên cứu, các trung tâm, các cơ quan nghiên cứu của các Bộ, ngành, các trường đại học và cao đẳng;
+
+- Khả năng tự học, tự bồ dưỡng chuyên môn, học ở các bậc học cao hơn (thạc sĩ, tiến sĩ).
+
+4.     Ngành được xét tuyển với các tổ hợp môn
+
+- Tổ hợp A00: Toán, Lý, Hóa.
+
+- Tổ hợp A01: Toán, Lý, Anh.
+
+- Tổ hợp D01: Toán, Văn, Anh.
+
+- Tổ hợp C01: Toán, Văn, Lý.
+
+5.     Các tư vấn viên hướng nghiệp về ngành
+
+- GVC. TS. Đặng Minh Phụng, phó trưởng bộ môn Công nghệ Chế tạo máy, đại học SPKT TP. HCM,  hotline: 0906814944
+
+- PGS. TS. Trần Ngọc Đảm, giảng viên bộ môn Công nghệ Chế tạo máy, đại học SPKT TP. HCM,  hotline: 0947760123
+
+- ThS. Phan Thanh Vũ, bộ môn Công nghệ Chế tạo máy, đại học SPKT TP. HCM,  hotline: 0978485733
+
+- PGS. TS. Trương Nguyễn Luân Vũ, trưởng khoa Cơ khí Chế tạo máy, trưởng bộ môn Công nghệ Chế tạo máy, đại học SPKT TP. HCM, hotline: 0909011136
+
+- PGS. TS. Đặng Thiện Ngôn, phó trưởng khoa Cơ khí Chế tạo máy, trưởng bộ môn Công nghệ Chế tạo máy, đại học SPKT TP. HCM, hotline: 0913804803

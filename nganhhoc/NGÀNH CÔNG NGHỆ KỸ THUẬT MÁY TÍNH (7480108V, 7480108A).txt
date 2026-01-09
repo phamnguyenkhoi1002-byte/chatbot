@@ -1,0 +1,20 @@
+NGÀNH CÔNG NGHỆ KỸ THUẬT MÁY TÍNH (7480108V, 7480108A)
+KHOA ĐIỆN ĐIỆN TỬ, TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH
+ 1. Giới thiệu về ngành
+- Học ngành này, sinh viên được đào tạo theo hướng công nghệ, có nhiều thời gian học thực hành trên thiết bị thực tế, có khả năng thiết kế và thi công các hệ thống nhúng, các hệ thống máy tính siêu nhỏ ứng dụng trong các thiết bị xử lý và điều khiển trong dân dụng và công nghiệp. Kỹ sư hệ thống nhúng phát triển các hệ thống xử lý điều khiển trong các công ty điện tử, phần mềm; Kỹ sư thiết kế vi mạch trong các công ty và tập đoàn nghiên cứu chế tạo và sản xuất vi mạch bán dẫn; hoặc giảng dạy, nghiên cứu tại các Viện, trường Đại học, Cao đẳng, Trung cấp,….
+- Lĩnh vực Công nghệ Kỹ thuật Máy tính, đặc biệt là lĩnh vực hệ thống nhúng tích hợp cả phần cứng và phần mềm đang có nhu cầu tuyển dụng lớn tại các doanh nghiệp với mức lương cao. 
+- Kỹ sư ra trường có thể làm việc, khởi nghiệp trong lĩnh vực IoT, lập trình trên thiết bị di dộng, lập trình nhúng, công ty lập trình phần cứng.
+- Sinh viên tốt nghiệp có đủ trình độ, kiến thức để học tập, nghiên cứu sau đại học.
+
+2. Tổ hợp xét tuyển:
+- Tổ hợp A00: Toán, Lý, Hóa.
+- Tổ hợp A01: Toán, Lý, Anh.
+- Tổ hợp D01: Toán, Văn, Anh.
+- Tổ hợp D89: Toán, Anh, Khoa học tự nhiên (KHTN).
+
+3. Hotline tư vấn chuyên ngành:
+- Thầy Trương Quang Phúc - 0917.731.988 - Email: phuctq@hcmute.edu.vn
+
+- PGS.TS Phan Văn Ca - Trưởng bộ môn - 0906.701.123 - capv@hcmute.edu.vn
+
+- PGS.TS Nguyễn Minh Tâm - Trưởng khoa Điện Điện tử - 0902.873.941 - tamnm@hcmute.edu.vn

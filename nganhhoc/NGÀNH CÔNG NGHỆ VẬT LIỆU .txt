@@ -1,0 +1,47 @@
+NGÀNH CÔNG NGHỆ VẬT LIỆU 
+(Vật liệu bán dẫn và vật liệu polymer)
+(7510402V Tiếng Việt - 7510402A Tiếng Anh)
+KHOA KHOA HỌC ỨNG DỤNG, TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH
+1. Giới thiệu về ngành:
+
+Khoa học kỹ thuật và công nghệ phát triển nhanh chóng từ thế kỷ 20 đến nay là thành tựu của nhiều ngành công nghệ phát triển tương hỗ lẫn nhau, trong đó có ngành Công nghệ vật liệu nano. Ngành công nghệ này chuyên nghiên cứu các loại vật liệu có kích thước nano (10-9 m) và các linh kiện nano mới. Bởi vật liệu nano thường thể hiện những tính chất lạ lùng làm nên sự khác biệt của nó so với vật liệu dạng khối nên các linh kiện nano có nhiều tính năng đặc biệt để phục vụ cho nhu cầu đa dạng của con người. Các ứng dụng của vật liệu nano đã được triển khai trên rất nhiều lĩnh vực như Điện tử, Cơ điện tử, Sinh học, Y học, Hóa học, Vật lý, Môi trường và nó ngày càng thể hiện tầm quan trọng trong kỹ thuật và trong đời sống của chúng ta. Vật liệu nano hiện diện trong rất nhiều sản phẩm mà chúng ta sử dụng hàng ngày. Một ví dụ điển hình là chiếc điện thoại thông minh tích hợp đồng thời những camera rất nhỏ cho hình ảnh rõ nét, màn hình phẳng có độ phân giải cao và chip vi xử lý. Cụ thể, trong chiếc điện thoại iphone 12 có chip vi xử lý A14, được sản xuất bởi tập đoàn TSMC của Đài Loan, sử dụng công nghệ vi chế tạo 5 nm. Nếu chưa tính lớp vỏ bọc bên ngoài, bộ vi xử lý này có diện tích chỉ vào khoảng 88 mm2, nhỏ hơn diện tích của một chiếc cúc áo sơ mi. Tuy nhiên, mật độ transistor (là linh kiện cơ bản tạo thành một bộ vi xử lý) chứa trên bộ vi xử lý A14 này đạt đến 134 triệu transistor/mm2. Cũng bằng cách sử dụng các công nghệ vi chế tạo này, các bộ vi xử lý trong máy tính của chúng ta có tốc độ xử lý tăng lên rất nhanh, cho đến thời điểm này, số transistor trên một bộ vi xử lý tăng gấp đôi sau mỗi chu kỳ 2 năm (theo định luật Moor’s). Điều này dẫn đến một sự thật không thể tranh cãi là công nghệ nano sẽ làm thay đổi nhanh chóng đời sống xã hội, bởi nó tác động rất lớn đến cách con người học tập, làm việc, giải trí, và giao tiếp với nhau.
+
+Công nghệ vật liệu polymer và polymer composite là một trong những nhánh nghiên cứu chính của ngành Công nghệ vật liệu. Bằng việc áp dụng công nghệ nano, nhiều nghiên cứu đã tạo ra được các vật liệu polymer và polymer composite mới. Đơn cử như việc pha trộn vật liệu nano graphene (là các tấm than chì nhỏ có bề dày ở kích thước nano) vào trong các loại polymer để tạo các vật liệu polymer nanocomposite mới, dùng phủ trên bề mặt kim loại, có tác dụng chống ăn mòn rất tốt cho kim loại. Ngành công nghiệp hàng không, công nghiệp ô tô và tàu thủy cũng được hưởng lợi rất nhiều từ các nghiên cứu ứng dụng của công nghệ vật liệu polymer và polymer composite. Các máy bay dân dụng như Airbus A380 và Boeing B787 được thiết kế sử dụng nhiều vật liệu nanocomposite. Trong công nghiệp xe hơi, gần đây một nhóm nghiên cứu của đại học Manchester (Anh Quốc) đã chế tạo thành công lớp sơn phủ graphene, có các tính năng chống nước, bụi, khí và các loại hóa chất bám trên nó. Có thể nói, ngành công nghệ vật liệu polymer và polymer composite có tác động rất lớn đến lĩnh vực công nghệ sơn, công nghệ bao bì, và ngành công nghiệp vận tải.
+
+Ngoài ra với sự phát triển của các loại vật liệu bán dẫn hữu cơ và công nghệ tạo màng mỏng polymer (bề dày nhỏ hơn 1 micro), các linh kiện nano mới có thể gồm vật liệu bán dẫn hữu cơ tích hợp các hạt nano, thanh nano, sợi nano, màng mỏng polymer nanocomposite. Chính các công nghệ này mà có thể tạo ra các loại cảm biến siêu nhạy dùng trong lĩnh vực y - sinh - hóa học, môi trường, robot - tự động hóa, và lĩnh vực IoT (nhờ các cảm biến và các thiết bị cầu nối tốc độ cao). Hơn nữa công nghệ này cũng được nghiên cứu để chế tạo các pin năng lượng mặt trời đang có vai trò rất lớn trong lĩnh vực năng lượng tái tạo.
+
+Ngành Công nghệ vật liệu ở trường ĐH Sư phạm kỹ thuật TP. HCM có mục tiêu đào tạo các Kỹ sư công nghệ vật liệu có kiến thức nền tảng về các loại vật liệu, mà trong đó tập trung chuyên sâu vào công nghệ vật liệu bán dẫn và vật liệu polymer composite.
+
+2. Điều kiện học tập và rèn luyện của sinh viên
+
+- Các bạn sinh viên có điều kiện được thực hành trên các thiết bị hiện đại và có cơ hội nghiên cứu trong phòng thí nghiệm Công nghệ vật liệu mà Nhà trường đã đầu tư rất lớn.
+
+- Sinh viên được tạo điều kiện tham gia các hoạt động nghiên cứu khoa học từ năm 3.
+
+- Sinh viên được trao đổi với các chuyên gia trong lĩnh vực công nghệ vật liệu ở các doanh nghiệp (cty Nike, cty Maxdream, cty Sơn Hoa Việt,..) trong khuôn khổ môn học Chuyên đề doanh nghiệp.
+
+- Ngoài ra, mỗi học kỳ sinh viên được tham quan các nhà máy, viện nghiên cứu trong lĩnh vực công nghệ vật liệu như Viện Công nghệ Nano (ĐHQG TP.HCM), Trung tâm Nghiên cứu triển khai khu Công nghệ Cao TP.HCM, công ty OnSemi VN, công ty Bosch VN, …
+
+3. Cơ hội việc làm và du học sau khi tốt nghiệp của sinh viên
+
+- Theo xu thế toàn cầu hóa, hiện nay tại Việt Nam có rất nhiều công ty nước ngoài, công ty đa quốc gia đã và đang hoạt động trong các lĩnh vực liên quan đến vật liệu nano như lĩnh vực điện tử (Intel, Samsung, On Semiconductor), lĩnh vực pin mặt trời (First Solar), và lĩnh vực vật liệu polymer composite (Nike, Hyosung …). Do vậy cơ hội việc làm của các sinh viên là rất lớn sau khi tốt nghiệp ngành Công nghệ vật liệu. Hiện nay các cựu sinh viên ngành Công nghệ vật liệu đang làm việc cho các công ty lớn này.
+
+- Ngoài ra, nhờ sự phát triển mạnh mẽ của ngành công nghệ vật liệu - công nghệ nano, các nước công nghiệp phát triển như Hàn Quốc, Nhật Bản, Đài Loan, Châu Âu, và Mỹ, hiện đang rất cần nguồn nhân lực về lĩnh vực này. Để thu hút nhân lực tham gia học tập, nghiên cứu, và sau đó tiếp tục ở lại làm việc, những nước này đã và đang cấp rất nhiều học bổng cho các sinh viên theo học các bậc học từ thạc sĩ đến tiến sĩ. Vì vậy, cơ hội du học bằng nguồn học bổng là rất lớn cho các em sinh viên sau khi tốt nghiệp đại học ngành Công nghệ vật liệu.
+
+4. Ngành được xét tuyển với các tổ hợp môn:
+
+- Tổ hợp A00: Toán, Lý, Hóa.
+
+- Tổ hợp A01: Toán, Lý, Anh.
+
+- Tổ hợp D01: Toán, Văn, Anh.
+
+- Tổ hợp D07: Toán, Hóa, Anh.
+
+5. Các tư vấn viên hướng nghiệp về ngành:
+
+- Thầy trưởng khoa Khoa học ứng dụng, TS. Phan Gia Anh Vũ (0778060479).
+
+- Thầy  trưởng bộ môn Công nghệ vật liệu, TS. Nguyễn Chí Thanh (vật liệu polymer) (033 6192598).
+
+-  Thầy phó bộ môn Công nghệ vật liệu, TS. Đỗ Huy Bình ( vật liệu bán dẫn)  (0793814279).

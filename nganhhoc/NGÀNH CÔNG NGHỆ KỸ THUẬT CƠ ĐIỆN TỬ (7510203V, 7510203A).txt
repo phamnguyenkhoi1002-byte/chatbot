@@ -1,0 +1,68 @@
+NGÀNH CÔNG NGHỆ KỸ THUẬT CƠ ĐIỆN TỬ (7510203V, 7510203A)
+KHOA CƠ KHÍ CHẾ TẠO MÁY - TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP. HCM
+NGÀNH ĐẠT CHUẨN KIỂM ĐỊNH CHẤT LƯỢNG QUỐC TẾ AUN-QA (từ năm 2016)
+1.     Giới thiệu về ngành
+
+Ngành Công nghệ Kỹ thuật Cơ điện tử là ngành kết hợp ba ngành cơ khí, điện tử, công nghệ thông tin. Sự kết hợp 3 lĩnh vực này nhằm tạo ra những sản phẩm (hệ thống thiết bị, máy móc) có tính năng vượt trội. Trong cuộc cách mạng công nghệ 4.0 ngành Cơ điện tử đã tạo ra các sản phẩm thông minh, kết nối vạn vật phục vụ trong sản xuất và đời sống của con người.
+
+Chương trình đào tạo ngành Cơ điện tử trang bị cho người học những kiến thức nền tảng về khoa học; có khả năng áp dụng toán học và khoa học giải quyết các vấn đề kỹ thuật; có khả năng tổ chức, kỹ năng kỹ thuật và kỹ năng thực hành để đảm đương công việc của người kỹ sư Công nghệ Kỹ thuật Cơ điện tử.
+
+Ngành đã được kiểm định chất lượng quốc tế theo tiêu chuẩn AUN-QA bởi mạng lưới các trường đại học khu vực Đông Nam Á năm 2016.
+
+2.       Điều kiện học tập và rèn luyện của sinh viên
+
+-   Sinh viên học ngành Công nghệ Kỹ thuật Cơ điện tử sẽ được học và trãi nghiệm trong môi trường giáo dục đại học hiện đại; phòng học lý thuyết mát mẻ; phòng thí nghiệm/thực hành đạt chuẩn công nghệ dạy học 4.0 về các lĩnh vực thiết kế cơ khí; gia công cơ khí; thiết kế mạch; điều khiển tự động; thiết bị tự động và tự động hóa; vi mạch và vi xử lý; robot và AI; IoT và hệ thống nhúng…
+
+    - Sinh viên được hướng dẫn/giảng dạy về kiên thức và kỹ năng chuyên môn từ các thầy cô trình độ cao với nhiều năm kinh nghiệm giảng dạy, nghiên cứu khoa học. Ngoài ra các công ty, doanh nghiệp hợp tác đào tạo với trường, khoa cũng mang đến cho sinh viên các kiến thức cập nhật về các tiến bộ kỹ thuật mới, cung cấp chỗ thực tập cũng như các học bổng trị giá cao cho các sinh viên đạt thành tích xuất sắc trong học tập, nghiên cứu.
+
+-   Sinh viên cũng được tạo điều kiện tham gia vào các sân chơi về gia công cơ khí, thiết kế chế tạo robot, tự động hóa trong thời đại 4.0 và kỹ thuật lập trình. Ngoài ra, sinh viên cũng được tạo điều kiện tham gia các cuộc thi Olympic Cơ học; Olympic Tin học…
+
+
+
+3.     Cơ hội việc làm sau khi tốt nghiệp của sinh viên
+
+Sau khi hoàn thành chương trình đào tạo, Kỹ sư ngành Công nghệ Kỹ thuật Cơ điện tử sẽ đáp ứng được nhiều công việc và nhiều lĩnh vực khác nhau tại các tập đoàn/công ty, nhà máy, xí nghiệp cơ khí, điện tử, sản xuất hóa chất, chế biến thực phẩm hoặc trong lĩnh vực dịch vụ kỹ thuật và nghiên cứu có liên quan đến lĩnh vực cơ khí, điện tử, tự động hóa công nghiệp với vai trò người thực hiện trực tiếp hay người quản lý, điều hành. Một vài công ty và công việc điển hình mà Kỹ sư ngành này đảm trách:
+
+- Tập đoàn Intel, công việc: phát triển hệ thống Tự động hóa sản xuất; vận hành bảo trì các dây chuyền tự động...
+
+- Tập đoàn FPT, công việc: hệ thống nhúng bao gồm lập trình và kiểm tra phần mềm; hệ thống trí tuệ nhân tạo bao gồm lập trình và kiểm tra hệ thống...
+
+- Công ty Renesas, công việc: lập trình nhúng...
+
+- Công ty On Semiconductor, công việc: vi mạch và bán dẫn...
+
+- Techtronic Industries TTI, công việc: phát triển hệ thống cơ khí và hệ thống tự động...
+
+- Công ty SMC, công việc: phát triển thiết bị tự động khí nén thủy lực;  vận hành bảo trì các dây chuyền tự động...
+
+- Công ty Azbil, công việc: thiết kế hệ thống quá trình.
+
+- Tự thành lập công ty khởi nghiệp về lĩnh vực tự động hóa, cơ khí - tự động hóa,  robot công nghiệp, gia công cơ khí... 
+
+- Tự học tập hoặc nghiên cứu nâng trình độ ở những bậc cao hơn Thạc sĩ, Tiến sĩ  
+
+- Giảng dạy các môn học chuyên ngành Công nghệ Kỹ thuật Cơ điện tử ở các trường đại học, cao đẳng đặc biệt là các trường nghề.
+
+- Làm việc ở tại các đơn vị nghiên cứu của Nhà nước.
+
+4.     Ngành được xét tuyển với các tổ hợp môn
+
+- Tổ hợp A00: Toán, Lý, Hóa.
+
+- Tổ hợp A01: Toán, Lý, Anh.
+
+- Tổ hợp D01: Toán, Văn, Anh.
+
+- Tổ hợp D90: Toán, Anh, Khoa học tự nhiên (KHTN).
+
+5.     Các tư vấn viên hướng nghiệp về ngành
+
+- PGS. TS. Trương Nguyễn Luân Vũ, trưởng khoa Cơ khí Chế tạo máy, trưởng bộ môn Công nghệ Chế tạo máy, đại học SPKT TP. HCM, hotline: 0909011136
+
+- TS. Nguyễn Xuân Quang, trưởng bộ môn Cơ điện tử, đại học SPKT TP. HCM, hotline: 0918334377
+
+- TS. Bùi Hà Đức, phó trưởng bộ môn Cơ điện tử, đại học SPKT TP. HCM,  hotline:
+
+- ThS. Võ Lâm Chương phó trưởng bộ môn Cơ điện tử, đại học SPKT TP. HCM,  hotline: 0909110407
+
+- GVC. ThS. Tưởng Phước Thọ, giảng viên bộ môn bộ môn Cơ điện tử, đại học SPKT TP. HCM,  hotline: 0909160264

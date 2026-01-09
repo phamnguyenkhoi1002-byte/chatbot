@@ -1,0 +1,45 @@
+NGÀNH AN TOÀN THÔNG TIN (7480202V)
+KHOA CÔNG NGHỆ THÔNG TIN, TRƯỜNG ĐH SƯ PHẠM KỸ THUẬT TP. HỒ CHÍ MINH
+ 1. Giới thiệu về ngành:
+
+- Trang bị kiến thức khoa học cơ bản, cơ sở ngành về CNTT, và chuyên sâu về an toàn thông tin như các kỹ thuật khai thác các lỗ hổng, lỗi bảo mật, phân tích phát hiện các mã độc và xâm nhập trái phép, điều tra nguồn gốc các tấn công, từ đó xây dựng, triển khai các giải pháp phòng chống và đảm bảo an toàn cho các hệ thống thông tin, ứng dụng, và hạ tầng mạng.
+
+- Ngành An toàn thông tin có vị trí rất quan trọng trong nhiều lĩnh vực kinh tế, xã hội, an ninh- quốc phòng..., đặc biệt trong bối cảnh hội nhập toàn cầu, chuyển đổi số, sản xuất thông minh, kinh tế tri thức. 
+
+- Nhu cầu về kỹ sư chuyên trách về an toàn thông tin tại Việt Nam là rất lớn bởi sự hội nhập quốc tế và toàn cầu hóa. Sinh viên sau khi hoàn thành chương trình đại học, có khả năng học tiếp lên các bậc học cao hơn (thạc sỹ, tiến sĩ). Dự báo trong những năm tới, nhu cầu nhân lực về lĩnh vực an toàn thông tin ngày càng tăng trong thời kỳ chuyển đổi số, thế giới vạn vật Internet of Things.
+
+2. Điều kiện học tập và rèn luyện của sinh viên
+
+- Sinh viên học ngành này sẽ được học trong môi trường tốt, hiện đại; được tiếp cận các trang thiết bị, hệ thống máy tính, mạng máy tính hiện đại.
+
+- Chú trọng giảng dạy không chỉ về lý thuyết mà cả kỹ năng thực hành nhằm đảm bảo sinh viên ra trường có thể tiếp cận và làm việc ngay tại các công ty chuyên về bảo mật và an toàn dữ liệu.
+
+- Sinh viên được học dưới sự hướng dẫn của các thầy cô tận tình.
+
+- Sinh viên được tạo điều kiện tham gia các hoạt động, chương trình, cuộc thi học thuật nhằm áp dụng các kiến thức chuyên môn vào thực tế như Hackathon, Mastering IT, CTF HCMUTE, Data Engineering competition và các sân chơi nghiên cứu khoa học, các cuộc thi về phát triển phần mềm, các chuyên đề doanh nghiệp và các hoạt động ngoại khóa chiến dịch mùa hè xanh, Xuân tình nguyện; Các hội diễn, hội thao, văn nghệ sinh viên.
+
+ 
+
+3. Cơ hội việc làm sau khi tốt nghiệp của sinh viên
+
+- Sinh viên sau khi tốt nghiệp, có thể làm việc tại các công ty trong lĩnh vực CNTT như phần mềm, cơ sở dữ liệu, hệ thống mạng, đặc biệt sinh viên có thể đảm nhiệm các vị trí thực hiện đảm bảo an toàn thông tin cho các hệ thống trong lĩnh vực CNTT như: lập trình và phát triển ứng dụng đảm bảo an toàn thông tin; quản trị và bảo mật mạng/ cơ sở dữ liệu; kiểm tra, đánh giá an toàn thông tin cho mạng và hệ thống; rà soát lỗ hổng, điểm yếu và xử lý sự cố an toàn thông tin; phân tích mã độc và ứng cứu khẩn cấp sự cố máy tính. Có thể tham gia nghiên cứu và giảng dạy tại các Viện nghiên cứu, Trường Đại học, Cao đẳng, Trung cấp chuyên nghiệp.
+
+- Ví dụ những vị trí sinh có thể ứng tuyển: Bảo mật thông tin, phân tích, tư vấn, thiết kế hệ thống thông tin đảm bảo an toàn, quản trị và bảo mật dữ liệu,
+
+ 
+
+4. Ngành được xét tuyển với các tổ hợp môn
+
+- Tổ hợp A00: Toán, Lý, Hóa.
+
+- Tổ hợp A01: Toán, Lý, Anh.
+
+- Tổ hợp D01: Toán, Văn, Anh.
+
+- Tổ hợp D90: Toán, Anh, Khoa học tự nhiên (KHTN).
+
+5. Các tư vấn viên hướng nghiệp về ngành
+
+- PGS.TS. Hoàng Văn Dũng (Phó trưởng khoa CNTT), dunghv@hcmute.edu.vn
+
+- ThS. Nguyễn Thị Thanh Vân (Trưởng Bộ môn, khoa CNTT), vanntth@hcmute.edu.vn - 0905131246
